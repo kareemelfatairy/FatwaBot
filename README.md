@@ -1,6 +1,7 @@
 # Fatwa Chat Bot
  A basic example of building a chat bot by applying it on the domain of Islamic Fatwa.
- You can find the [Tutorial](https://omarito.me/building-a-basic-fatwa-chat-bot) or you can find the co-author tutorial at youtube [Tutorial](https://youtube.com)
+ You can find the [Tutorial](https://omarito.me/building-a-basic-fatwa-chat-bot) or you can find the co-author tutorial at 
+ youtube [Tutorial](https://www.youtube.com/playlistlist=PLZ2DkMNM5uyaD_W8CEOjhzT98vqXzsV7C)
 
 
 # Prerequisites :
@@ -72,7 +73,7 @@ sudo pip install git+https://github.com/farizrahman4u/seq2seq.git
 #### 4) Start Hacking !
 
 
-### Warning :
-If you will use the project and the database is not allowed to circulate this project under any business, even if it is non-profit only with the approval of the Islamic research institutes concerned in this regard.
-Feel free to use this project with any other data like chat or data extracted from social media sites like reddit
-
+### Warnning :
+Warning :
+This database cannot be used in any commercial or development work or presented to the public, even if it is a non-profit only for scientific research or project as well.
+It is strictly forbidden to publish any project based on the database except with the approval of the relevant Islamic Research Institute.
