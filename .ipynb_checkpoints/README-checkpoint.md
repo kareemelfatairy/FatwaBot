@@ -43,6 +43,11 @@
 
 # Getting Start :
 
+### Start Project Before Clone Project 
+
+
+
+
 #### 1 ) Machine & Deep Learning Frameworks :
 ```
 pip install tensorflow 
@@ -61,9 +66,13 @@ python setup.py install
 sudo pip install git+https://github.com/farizrahman4u/seq2seq.git
 ```
 
-#### 3) Unzib fatwa-dataset inside /Fatwabot/dataset Folder
+#### 3) Unzip dataset inside /Fatwabot/dataset/**.zip
 
 
-#### 4) don't forget about Star Project .. Start Hacking !
+#### 4) Start Hacking !
 
+
+### Warning :
+If you will use the project and the database is not allowed to circulate this project under any business, even if it is non-profit only with the approval of the Islamic research institutes concerned in this regard.
+Feel free to use this project with any other data like chat or data extracted from social media sites like reddit
 
