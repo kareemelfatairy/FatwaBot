@@ -1,6 +1,6 @@
 # Fatwa Chat Bot
  A basic example of building a chat bot by applying it on the domain of Islamic Fatwa.
- You can find the [Tutorial](https://omarito.me/building-a-basic-fatwa-chat-bot) or you can find the [Youtube Tutorial on co-Autor Playlist](https://youtube.com)
+ You can find the [Tutorial](https://omarito.me/building-a-basic-fatwa-chat-bot) or you can find the co-author tutorial at youtube [Tutorial](https://youtube.com)
 
 
 # Prerequisites :
@@ -43,6 +43,11 @@
 
 # Getting Start :
 
+### Start Project Before Clone Project 
+
+
+
+
 #### 1 ) Machine & Deep Learning Frameworks :
 ```
 pip install tensorflow 
@@ -62,6 +67,7 @@ sudo pip install git+https://github.com/farizrahman4u/seq2seq.git
 ```
 
 #### 3) Unzib fatwa-dataset inside /Fatwabot/dataset Folder
+
 
 #### 4) don't forget about Star Project .. Start Hacking !
 
